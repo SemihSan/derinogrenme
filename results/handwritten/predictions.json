@@ -1,0 +1,75 @@
+{
+  "checkpoint": "results\\main\\checkpoints\\wide.pt",
+  "rows": [
+    {
+      "file": "00.png",
+      "prediction": 2,
+      "softmax_score": 0.984525740146637,
+      "label": 2
+    },
+    {
+      "file": "01.png",
+      "prediction": 4,
+      "softmax_score": 0.9987543821334839,
+      "label": 4
+    },
+    {
+      "file": "02.png",
+      "prediction": 1,
+      "softmax_score": 0.9990018010139465,
+      "label": 1
+    },
+    {
+      "file": "03.png",
+      "prediction": 1,
+      "softmax_score": 0.9914900660514832,
+      "label": 2
+    },
+    {
+      "file": "04.png",
+      "prediction": 9,
+      "softmax_score": 0.8063546419143677,
+      "label": 0
+    },
+    {
+      "file": "05.png",
+      "prediction": 1,
+      "softmax_score": 0.9737969040870667,
+      "label": 2
+    },
+    {
+      "file": "06.png",
+      "prediction": 4,
+      "softmax_score": 0.7393518090248108,
+      "label": 0
+    },
+    {
+      "file": "07.png",
+      "prediction": 1,
+      "softmax_score": 0.6901753544807434,
+      "label": 5
+    },
+    {
+      "file": "08.png",
+      "prediction": 4,
+      "softmax_score": 0.41763898730278015,
+      "label": 0
+    },
+    {
+      "file": "09.png",
+      "prediction": 1,
+      "softmax_score": 0.9640784859657288,
+      "label": 8
+    },
+    {
+      "file": "10.png",
+      "prediction": 6,
+      "softmax_score": 0.6387469172477722,
+      "label": 4
+    }
+  ],
+  "predicted_number": "24119141416",
+  "expected_number": "24120205084",
+  "digit_accuracy": 0.2727272727272727,
+  "exact_match": false
+}

@@ -1,0 +1,6 @@
+# Teslim manifestindeki dosya hash'lerini korumak için otomatik satır sonu dönüşümü yapma.
+* -text
+*.png binary
+*.jpeg binary
+*.pt binary
+*.npz binary

@@ -1,0 +1,11 @@
+.venv/
+.uv-cache/
+__pycache__/
+*.pyc
+data/MNIST/
+*.pdf
+.pytest_cache/
+.mpl-cache/
+.test-*/
+dist/
+.submission-check-*/

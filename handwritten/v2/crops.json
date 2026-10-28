@@ -1,0 +1,17 @@
+{
+  "source": "handwritten/original/student_number_v2.jpeg",
+  "description": "İkinci gerçek fotoğrafta görsel inceleme ile belirlenen bölgeler. Sınırlar bu fotoğrafın model tahminleri görülmeden sabitlendi. Koordinatlar [left, top, right, bottom].",
+  "regions": [
+    [177, 838, 246, 934],
+    [246, 838, 329, 959],
+    [329, 838, 366, 946],
+    [366, 838, 439, 941],
+    [439, 838, 517, 941],
+    [517, 838, 599, 941],
+    [599, 838, 677, 935],
+    [677, 838, 744, 948],
+    [744, 838, 813, 941],
+    [813, 838, 869, 952],
+    [869, 838, 949, 980]
+  ]
+}

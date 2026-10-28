@@ -1,0 +1,12 @@
+{
+  "source": "handwritten/original/student_number.png",
+  "source_sha256": "69dfc4c5e85b1dd7ce590fa8a6dee3946278e126efa97fd025c738ef492ed262",
+  "confirmed_number": "24120205084",
+  "label_source": "Kullanıcı bu konuşmada doğru numarayı açıkça bildirdi.",
+  "crop_spec": "handwritten/crops.json",
+  "crop_count": 11,
+  "checkpoint": "results\\main\\checkpoints\\wide.pt",
+  "checkpoint_sha256": "50e8bd86b003d3dc2cd71acd1662447f8d87dee06bcce8c268e45c8e00cf9ada",
+  "model_retrained": false,
+  "preprocessing_changed_after_personal_predictions": false
+}

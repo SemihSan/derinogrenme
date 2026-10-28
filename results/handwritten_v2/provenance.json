@@ -1,0 +1,15 @@
+{
+  "source": "handwritten/original/student_number_v2.jpeg",
+  "source_sha256": "9440cb3485146f2bb474b8f9716bd1ad04748695c469d2d0046e79e719e7b24c",
+  "confirmed_number": "24120205084",
+  "label_source": "Aynı konuşmada kullanıcının doğruladığı okul numarası; ikinci fotoğrafta aynı numara yazılı.",
+  "crop_spec": "handwritten/v2/crops.json",
+  "crop_count": 11,
+  "checkpoint": "results\\main\\checkpoints\\wide.pt",
+  "checkpoint_sha256": "50e8bd86b003d3dc2cd71acd1662447f8d87dee06bcce8c268e45c8e00cf9ada",
+  "checkpoint_same_as_first_photo": true,
+  "preprocessing_sha256": "04d3f86825917a6a40a30f6461d1daf18bac2bc2fed260b9cf8c42f82d73969e",
+  "model_retrained": false,
+  "preprocessing_changed": false,
+  "digit_accuracy": 0.7272727272727273
+}

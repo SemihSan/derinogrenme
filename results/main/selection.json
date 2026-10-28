@@ -1,0 +1,10 @@
+{
+  "selected": "wide",
+  "criterion": "minimum validation loss",
+  "epochs": {
+    "baseline": 9,
+    "wide": 9,
+    "low_lr": 10
+  },
+  "test_evaluated_at_selection": false
+}

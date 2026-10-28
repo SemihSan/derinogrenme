@@ -1,0 +1,17 @@
+{
+  "source": "handwritten/original/student_number.png",
+  "description": "Kullanıcının sağladığı fotoğrafta görsel incelemeyle belirlenen tek rakam bölgeleri; model tahminleri görülmeden sabitlendi. Koordinatlar [left, top, right, bottom], sağ ve alt uç hariç.",
+  "regions": [
+    [18, 30, 65, 82],
+    [65, 30, 98, 82],
+    [98, 30, 118, 82],
+    [118, 30, 141, 82],
+    [141, 30, 166, 82],
+    [166, 30, 188, 82],
+    [188, 30, 211, 82],
+    [211, 30, 234, 82],
+    [234, 30, 260, 82],
+    [260, 30, 287, 82],
+    [287, 30, 311, 82]
+  ]
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "name": "baseline",
+    "hidden_sizes": [
+      128,
+      64
+    ],
+    "learning_rate": 0.001,
+    "optimizer": "Adam",
+    "batch_size": 128,
+    "epochs": 10
+  },
+  {
+    "name": "wide",
+    "hidden_sizes": [
+      256,
+      128
+    ],
+    "learning_rate": 0.001,
+    "optimizer": "Adam",
+    "batch_size": 128,
+    "epochs": 10
+  },
+  {
+    "name": "low_lr",
+    "hidden_sizes": [
+      128,
+      64
+    ],
+    "learning_rate": 0.0003,
+    "optimizer": "Adam",
+    "batch_size": 128,
+    "epochs": 10
+  }
+]
